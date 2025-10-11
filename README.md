@@ -14,6 +14,11 @@
 3. THEN RUN THE TOOL AND EXPLORE
 
 
+# SCREENSHOT
+<img width="1607" height="928" alt="image" src="https://github.com/user-attachments/assets/dadb7f08-11f5-4b76-8eae-b4663390e907" />
+
+
+
 # ⚡ TG CONTACT
 - @BOTCHATTH 
 
