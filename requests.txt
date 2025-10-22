@@ -1,0 +1,5 @@
+netflix.com/br
+netflix.com/mx
+.mx
+.it
+/br
