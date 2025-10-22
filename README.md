@@ -18,15 +18,7 @@
 
 MENU
 
-<img width="1607" height="928" alt="image" src="https://github.com/user-attachments/assets/dadb7f08-11f5-4b76-8eae-b4663390e907" />
-
-RUNNER
-
-<img width="1609" height="927" alt="image" src="https://github.com/user-attachments/assets/47767f44-3de3-4ba3-950d-08ba58548f0a" />
-
-
-
-
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/1381ca6d-08a4-48ff-85f9-31e3cce1fd75" />
 
 
 # ⚡ TG CONTACT
