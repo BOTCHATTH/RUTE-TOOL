@@ -36,14 +36,23 @@
 
 ---
 
-## 🎯 Purpose
+## 🎯 Workflows
 
 ```
-RUTE handles three main workflows:
+RUTE handles the following workflows:
 
-  ├── ULP / COMBO ──────── Extract credentials from massive combo lists
-  ├── LOGS / COMBO ─────── Pull login:pass from stealer log folders
-  └── LOGS / COOKIES ───── Extract Netscape cookies by target domain
+  ULP MODE
+  ├── ULP / COMBO ──────────── Extract credentials from massive combo lists
+
+  LOGS MODE
+  ├── LOGS / COMBO ─────────── Pull login:pass from log folders
+  ├── LOGS / COOKIES ───────── Extract Netscape cookies by target domain
+  ├── LOGS / STEAM ─────────── Parse & extract Steam tokens from log folders
+  ├── LOGS / DISCORD ───────── Extract Discord tokens from log folders
+  └── LOGS / TDATA ─────────── Extract Telegram Tdata sessions from logs
+
+  TOOLS
+  └── VALIDATE & CLEAN ─────── Deduplicate, sort & clean combo/credential files
 ```
 
 ---
@@ -103,4 +112,5 @@ youtube.com
 [![Telegram](https://img.shields.io/badge/TELEGRAM-%40BOTCHATTH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BOTCHATTH)
 
 </div>
+
 
