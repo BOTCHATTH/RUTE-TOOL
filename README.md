@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&height=80&lines=⚡+RUTE+TOOL;Advanced+Extractor+v1.4.5" alt="RUTE" />
+# ⚡ RUTE TOOL
+### Advanced Extractor — v1.4.5
 
 <br/>
 
