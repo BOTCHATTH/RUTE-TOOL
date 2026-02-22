@@ -45,7 +45,7 @@ RUTE handles the following workflows:
   ├── ULP / COMBO ──────────── Extract credentials from massive combo lists
 
   LOGS MODE
-  ├── LOGS / COMBO ─────────── Pull login:pass from log folders
+  ├── LOGS / COMBO ─────────── Pull login:pass from stealer log folders
   ├── LOGS / COOKIES ───────── Extract Netscape cookies by target domain
   ├── LOGS / STEAM ─────────── Parse & extract Steam tokens from log folders
   ├── LOGS / DISCORD ───────── Extract Discord tokens from log folders
@@ -60,6 +60,7 @@ RUTE handles the following workflows:
 ## 🛠️ How To Use
 
 **1. Extract the `.zip`**
+> Make sure to keep all files in the same folder — `RUTE.exe`, `requests.txt`, and all `.dll` files must stay together.
 
 **2. Add your targets to `requests.txt`**
 ```
@@ -75,6 +76,22 @@ youtube.com
 - Pick your mode (ULP or Logs)
 - Select your input folder / files
 - Hit **START** and watch it run
+
+---
+
+### ⚠️ Startup Issues?
+
+If the tool crashes or won't open, the `.dll` files are likely missing or in the wrong place.
+
+**Fix:** Download the required DLLs from the [latest release](https://github.com/BOTCHATTH/RUTE-TOOL/releases/latest) under **Assets**:
+
+| File | Size |
+|------|------|
+| `av_libglesv2.dll` | ~5 MB |
+| `libHarfBuzzSharp.dll` | ~1.7 MB |
+| `libSkiaSharp.dll` | ~9 MB |
+
+Place them in the **same folder** as `RUTE.exe` and relaunch.
 
 ---
 
